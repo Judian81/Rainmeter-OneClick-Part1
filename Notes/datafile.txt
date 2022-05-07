@@ -1,0 +1,9 @@
+todo:
+-get milk
+-send card
+
+doing:
+-homework
+
+done:
+-english lessons part 4
