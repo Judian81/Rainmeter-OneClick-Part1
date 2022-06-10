@@ -7,7 +7,13 @@ end
 function Update()
 
 	secondsDiff = measureSecondsDiff:GetValue()
-	diffDays, diffHours, diffMinutes, diffSeconds = FormatSeconds(math.abs(secondsDiff))
+	diffMonths, diffDays, diffHours, diffMinutes, diffSeconds = FormatSeconds(math.abs(secondsDiff))
+	
+	if diffMonths == 1 then
+		outputMonth = diffMonths..' Month'
+	else
+		outputMonth = diffMonths..' Months'
+	end
 	
 	if diffDays == 1 then
 		outputDays = diffDays..' Day'
@@ -33,7 +39,9 @@ function Update()
 		outputSeconds = diffSeconds..' Seconds'
 	end
 	
-	if diffDays > 0 then
+	if diffMonths > 0 then
+		outputString = outputMonth..', '..outputDays..', '..outputHours
+	elseif diffDays > 0 then
 		outputString = outputDays..', '..outputHours
 		-- ..'  '..outputMinutes..'  '..outputSeconds
 	elseif diffHours > 0 then
@@ -52,6 +60,7 @@ end
 
 function FormatSeconds(secondsArg)
 
+   local month =  math.floor(secondsArg / 2592000)
    local days = math.floor(secondsArg / 86400)
    local remainder = secondsArg % 86400
    local hours = math.floor(remainder / 3600)
@@ -59,6 +68,6 @@ function FormatSeconds(secondsArg)
    local minutes = math.floor(remainder / 60)
    local seconds = remainder % 60
    
-   return days, hours, minutes, seconds
+   return month, days, hours, minutes, seconds
    
 end
