@@ -61,7 +61,8 @@ end
 function FormatSeconds(secondsArg)
 
    local month =  math.floor(secondsArg / 2592000)
-   local days = math.floor(secondsArg / 86400)
+   local remainder = secondsArg % 2592000
+   local days = math.floor(remainder / 86400)
    local remainder = secondsArg % 86400
    local hours = math.floor(remainder / 3600)
    local remainder = remainder % 3600
