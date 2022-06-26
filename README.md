@@ -1,15 +1,8 @@
-if you want to have to most updated version of these skins.
-
-you can download the zip manualy and extract it to the rainmeter skin map you like.
-
-
-
-
-
 Preview:
 
 
-![OneClick](https://user-images.githubusercontent.com/46109964/167267051-8b4cc639-c1d1-4116-837c-099a152377e1.png)
+![OneClick](https://user-images.githubusercontent.com/46109964/175829973-e2eef36e-288a-4164-9545-fc22ec2a4f6a.png)
+
 
 
 
