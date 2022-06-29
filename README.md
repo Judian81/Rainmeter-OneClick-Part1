@@ -44,6 +44,10 @@ Info:
 
 -Smoke Counter
 
+we can see the month, day and hour of the time we stopped smoking.
+you can set the date you stoppend smoking from the hour you stopped.
+you can change the width and height. also possible to scale.
+
 -Steam Chat
 
 possible to add 4 friends. use custom names and pictures you like to have. needs steam id links to work,
