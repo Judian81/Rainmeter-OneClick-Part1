@@ -54,7 +54,8 @@ open item in one click.
 list is scrollable. you can select if you want to use a scrollbar.
 you can change the icon of every item.
 list sorted by name.
-
+possible to see item name even if skin is not wide enough.
+you can change the width and height. also possible to scale the skin.
 
 
 
