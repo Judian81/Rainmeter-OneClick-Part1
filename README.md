@@ -47,6 +47,10 @@ Info:
 -Steam Chat
 
 -Steam Games
+up to 15 items. support steam, windows desktop and internet short cuts.
+open steam game library when clicked on title.
+open item in one click.
+list is scrollable. you can chouse select if you want to use a scrollbar.
 
 -Time
 
