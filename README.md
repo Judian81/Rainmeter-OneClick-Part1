@@ -65,6 +65,9 @@ save scroll position.
 
 -Time
 
+we see a lot of things that has to do with time. first of all a 24 hour notation. the weeks we are living in. the date, day of the week, the seasons, daypart and if it is pm or am. next to that we have a picture of the day part. of course the pictures is specifically made because the day ligth time and not the weather.
+you can change the width and height. also possible to scale.
+
 -Uptime
 
 -Windows Shortcuts
