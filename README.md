@@ -40,7 +40,16 @@ Info:
 
 -Roman Calculator
 
+calculate the roman numbers with giving the normal number system. you have to click before you can put in the numers.
+when hoover the title you can see what a roman number is. like X for 10 and so on.
+you can change the width and height. also possible to scale.
+
 -Roman Clock
+
+it is a clock with use of a 24 hour notation. but then translated to roman numbers.
+you can select between hour and minutes or hours, minute and seconds.
+you can change the width and height. also possible to scale.
+
 
 -Smoke Counter
 
