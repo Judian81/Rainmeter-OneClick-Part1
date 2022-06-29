@@ -46,6 +46,11 @@ Info:
 
 -Steam Chat
 
+possible to add up to 4 friends. use custom names and pictures you like to have. needs steam id links to work,
+then you can see status, online data, profile (when clicked) and open chat of friend.
+when clicked on title it opens steam application friends list.
+you can change the width and height. also possible to scale.
+
 -Steam Games
 
 max up to 15 items. support steam, windows desktop and internet short cuts.
