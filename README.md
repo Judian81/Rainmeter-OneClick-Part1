@@ -38,6 +38,10 @@ Info:
 
 -Recycle Bin
 
+when clicked on the title. the trash can is opend in a new window. you can see the total items and how much memory it takes.
+when clicked with the right mouse butten. you can select is you want to empty the trash can.
+you can change the width and height. also possible to scale.
+
 -Roman Calculator
 
 calculate the roman numbers with giving the normal number system. you have to click before you can put in the numers.
