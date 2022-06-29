@@ -57,9 +57,6 @@ list sorted by name.
 possible to see item name even if skin is not wide enough.
 you can change the width and height. also possible to scale the skin.
 
-
-
-
 -Time
 
 -Uptime
