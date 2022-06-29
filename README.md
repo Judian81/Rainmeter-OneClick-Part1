@@ -8,6 +8,54 @@ Preview:
 
 Info:
 
+-Binary Ascii Table
+
+-Binary Clock
+
+-Calculator
+
+-Christmas Countdown
+
+-Cook Timer
+
+-Disk
+
+-Google Search
+
+-Lock Computer
+
+-Music Player
+
+-Network
+
+-Notes
+
+-Performance
+
+-Photo Album
+
+-Rainmeter Forum
+
+-Recycle Bin
+
+-Roman Calculator
+
+-Roman Clock
+
+-Smoke Counter
+
+-Steam Chat
+
+-Steam Games
+
+-Time
+
+-Uptime
+
+-Windows Shortcuts
+
+
+
 
 
 
