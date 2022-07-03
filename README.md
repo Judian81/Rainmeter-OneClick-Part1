@@ -33,7 +33,7 @@ and the last one is sexagesimal with hours, minutes and seconds.
 -Calculator
 
 we can make some simple calculation's. addition, subtraction, multiplication and division. you can click on the textbox to write some numbers.
-there are only numbers that are possible to type in the text box.
+there are only numbers that are possible to type in the text box. when right click on textbox it copies to clipboard.
 what also is possible, to write a number and click on the R to see what roman numbers it are.
 when clicked on title it opens the original windows calculator.
 
@@ -62,6 +62,7 @@ the skin do not keep the computer in wake state. and that is how it should work.
 
 i think it is fun to have a skin like this. but i still recommend an old timer with no battery's needed.
 if you want to have a timer with seconds. then yes it is better to buy a digital timer on battery's.
+please let it be rechargeable battery's.
 
 &nbsp;
 
@@ -88,7 +89,24 @@ i chose for double click to be more save. this skin works the same as [winkey] +
 
 -Music Player
 
+click on title to open sound device settings.
+when switching from players by using that beautifull icons. we can see the position, lenght, artist, album, song, cover.
+when switched to spotify. we can only see artist and song.
+switching works like this. you press 1 time on the winamp icon. and if winamp plays a song. we can see everything.
+you can change the position of the song.
+when you double click on one of thouse icons it will open the origional player.
+yes and then we have the controls. back, play, pause, stop and forward.
+you can see there is a device name visable. when click on the device you will cycle through all enabled devices of your system.
+using mute button will mute or unmute.
+the mute and volume are attached to the device we have in use. so per device the mute and volume level could be different.
+you can change the volume level.
 
+this are the plugins included.
+1) mouse.dll. https://github.com/NighthawkSLO/Mouse.dll/releases
+this is for controling the position and volume bar percentages.
+2) audioanalyzer.dll. https://github.com/d-uzlov/Rainmeter-Plugins-by-rxtd/releases
+will show a visualizer in the cover area. will work with any sound played on your pc. i was watching news and found out it still working.
+3) webnowplayer.dll. https://github.com/tjhrulz/WebNowPlaying/releases
 
 &nbsp;
 
@@ -96,7 +114,7 @@ i chose for double click to be more save. this skin works the same as [winkey] +
 
 the upload and download speed are displayed in percentages. your ip adres is shown but is masked. masked means it will show a * in stead of 256 or whatever.
 this can be undone with skin ini. when clicked on ip adres or its label it opens the network connections.
-when clicked on the title it will start https://www.speedtest.net/. there you can test your internet speed.
+when clicked on the title it will start speedtest.net. there you can test your internet speed.
 
 &nbsp;
 
@@ -124,10 +142,10 @@ it is possible to enable a border or and background. you can change height, widt
 
 -Rainmeter Forum
 
-we can see up to 10 threads. the user, date and time, if there is a reply and the toppic we are in is displayed.
+we can see up to 10 threads. the user, date / time, if there is a reply and the toppic we are in.
 we can open every item by just one click. when clicked on topic in title bar we go to the rainmeter manual website.
 when clicked on thread in the title bar we open the rainmeter forum website.
-
+when clicked on author we open your rainmeter account page.
 &nbsp;
 
 -Recycle Bin
@@ -159,7 +177,7 @@ this way you can learn to count in roman.
 -Smoke Counter
 
 we can see the month, day and hour of the time we stopped smoking.
-you can set the date you stoppend smoking from the hour you stopped.
+when date is set the count begins.
 
 &nbsp;
 
