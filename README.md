@@ -5,9 +5,6 @@ Preview:
 ![OneClick](https://user-images.githubusercontent.com/46109964/175830176-10e83fb4-ad10-42e7-9600-afc70a4bfc39.png)
 
 
-
-
-
 &nbsp;
 
 Info:
@@ -18,9 +15,7 @@ Info:
 
 cycles between numbers (0 to 9), uppercase (A to Z) and lowercase (a to z).
 it will then show what binary code it suits.
-
 &nbsp;
-
 like 0100 0001 = A, 0100 0010 = B and 0100 0011 = C.
 when mouse over title you can see by what it cycles to.
 
