@@ -232,11 +232,11 @@ save scroll position.
 
 &nbsp;
 
-** you can change the width and height. also possible to scale. you can set the padding to keep distance between skins. this is possible in all skins.
+** change width and height or change scale. you can set the padding to keep distance between skins. this is possible in almost all.
 
 &nbsp;
 &nbsp;
 
-Forum:
+Rainmeter Forum:
 
 https://forum.rainmeter.net/viewtopic.php?p=200688
