@@ -240,3 +240,4 @@ save scroll position.
 Rainmeter Forum:
 
 https://forum.rainmeter.net/viewtopic.php?p=200688
+ 
