@@ -199,8 +199,9 @@ open item in one click.
 list is scrollable. you can select if you want to show a scrollbar.
 you can change the icon of every item.
 list sorted by name.
-possible to see item name even if skin is not wide enough.
+possible to see item name even if is not wide enough.
 save scroll position.
+see the selected row there could be clicked on.
 
 &nbsp;
 
@@ -229,10 +230,11 @@ you can change the icon of every item.
 list sorted by name.
 possible to see item name even if skin is not wide enough.
 save scroll position.
+see with mouseover which item could be clicked on.
 
 &nbsp;
 
-** change width and height or change scale. you can set the padding to keep distance between skins. this is possible in almost all.
+** change width and height or change scale. you can set the padding to keep distance between skins. this is possible in almost all skins.
 
 &nbsp;
 &nbsp;
@@ -240,4 +242,3 @@ save scroll position.
 Rainmeter Forum:
 
 https://forum.rainmeter.net/viewtopic.php?p=200688
- 
