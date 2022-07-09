@@ -77,13 +77,15 @@ when clicked on title it opens the file explorer in the onedrive map.
 
 when clicked on the title it opens google.com in your default browser.
 when clicked on search you can type something you want to search for. press enter and it opens a new tab to search on.
+with special tool tip included. tool tip text have an image, title and text. the fontstyle can be changed. and there is an automatic scale option.
 
 &nbsp;
 
 -Lock Computer
 
 it display a lock icon. when double click on icon your computer gets locked.
-i chose for double click to be more save. this skin works the same as [winkey] + [L] but you can do it with the mouse.
+i chose for double click to be more safe. this skin works the same as [Winkey] + [L] but you can do it with the mouse.
+with special tool tip included. tool tip text have an image, title and text. the fontstyle can be changed. and there is an automatic scale option.
 
 &nbsp;
 
@@ -216,7 +218,8 @@ when you click on the time. your computer time settings are displayed.
 
 -Uptime
 
-
+you can see the uptime, when started and how long it is running.
+when clicked on title it opens the windows control panel.
 
 &nbsp;
 
