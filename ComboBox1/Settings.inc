@@ -26,12 +26,3 @@ vPathEmulator="C:\Users\*\Gaming\RomGames\Nintendo NES\VirtuaNES.exe"
 vRomName=
 vRomExtension=
 
-Icon1=
-Name1=Name01
-WholePath1=[""]
-Icon2=
-Name2=Name02
-WholePath2=[""]
-Image=
-
-icon3="#vPath#\[mName1].[mExtension1]"
