@@ -21,8 +21,8 @@ vScrollIndex=0
 
 ContainerH=(22*#vSkinScale#)
 
-vPath="C:\Users\*\Gaming\RomGames\Nintendo NES\roms"
-vPathEmulator="C:\Users\*\Gaming\RomGames\Nintendo NES\VirtuaNES.exe"
+vPath="%userprofile%\OneDrive\Gaming\RomGames\Nintendo NES\roms"
+vPathEmulator="%userprofile%\OneDrive\Gaming\RomGames\Nintendo NES\VirtuaNES.exe"
 vRomName=
 vRomExtension=
 
