@@ -44,7 +44,7 @@ ClipString=1
 
 [sTextRight]
 FontColor=130,131,132,255
-StringStyle=Bold
+StringStyle=Normal
 StringAlign=Right
 FontFace=Trebuchet MS
 FontSize=(10*#vSkinScale#)
@@ -58,7 +58,7 @@ widthAndColor1=StrokeWidth (2*#vSkinScale#) | Stroke Color 183,204,213,150
 widthAndColor2=StrokeWidth (2*#vSkinScale#) | Stroke Color 20,20,20,150
 
 [sBar]
-BarColor=235,170,0,255
+BarColor=180,180,180,255
 BarOrientation=HORIZONTAL
 SolidColor=183,204,213,100
 

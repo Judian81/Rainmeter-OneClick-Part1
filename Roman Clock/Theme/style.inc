@@ -32,7 +32,7 @@ FontEffectColor=0,0,0,50
 
 [sTextLeft]
 FontColor=130,131,132,255
-StringStyle=Normal
+StringStyle=Bold
 StringAlign=Left
 FontFace=Trebuchet MS
 FontSize=(10*#vSkinScale#)

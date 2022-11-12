@@ -44,7 +44,7 @@ ClipString=1
 
 [sTextRight]
 FontColor=130,131,132,255
-StringStyle=Bold
+StringStyle=Normal
 StringAlign=Right
 FontFace=Trebuchet MS
 FontSize=(10*#vSkinScale#)
