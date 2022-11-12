@@ -1,14 +1,17 @@
 [Variables]
 
-Item1=Breakfast
-Time1Hrs=0
+Item1=Boil Water
+Time1Hrs=00
 Time1Min=10
-Time1=0
-Item2=Lunch
+Time1Seconds=0
+Time1=45
+Item2=Microwave
 Time2Hrs=00
-Time2Min=15
-Time2=0
-Item3=Dinner
+Time2Min=01
+Time2Seconds=30
+Time2=12
+Item3=Oven
 Time3Hrs=00
-Time3Min=30
-Time3=0
+Time3Min=12
+Time3Seconds=00
+Time3=45
