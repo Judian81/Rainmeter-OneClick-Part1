@@ -76,8 +76,10 @@ when clicked on title it opens the file explorer in the onedrive map.
 
 -Google Search
 
-when clicked on the title it opens google.com in your default browser.
-when clicked on search you can type something you want to search for. press enter and it opens a new tab to search on.
+when double click on the title it opens google.com in your default browser.
+we can change the search option to youtube, rainmeter, google and translation.
+you can double click on youtube and that will then open the youtube default page.
+when typed something while youtube is selected it will open your default browser and search for what you typed for in the youtube webpage.
 with special tool tip included. tool tip text have an image, title and text. the fontstyle can be changed. and there is an automatic scale option.
 
 &nbsp;
