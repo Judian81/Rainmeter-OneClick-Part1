@@ -149,6 +149,7 @@ we can see up to 10 threads. the user, date / time, if there is a reply and the 
 we can open every item by just one click. when clicked on topic in title bar we go to the rainmeter manual website.
 when clicked on thread in the title bar we open the rainmeter forum website.
 when clicked on author we open your rainmeter account page.
+
 &nbsp;
 
 -Recycle Bin
@@ -194,7 +195,26 @@ text color change when online / offline or in game.
 
 &nbsp;
 
--Steam Games
+-Steam Games (fileview)
+
+this skin use (fileview) plugin that comes with rainmeter itself.
+
+max up to 15 items. support steam, windows desktop and internet short cuts.
+open steam game library when clicked on title.
+open item in one click.
+list is scrollable. you can select if you want to show a scrollbar.
+you can change the icon of every item.
+list sorted by name.
+possible to see item name even if is not wide enough.
+save scroll position.
+see the selected row there could be clicked on.
+
+&nbsp;
+
+-Steam Games (filechoose)
+
+this skin use (filechoose) plugin that have to be installed from rainmeter forum.
+https://forum.rainmeter.net/viewtopic.php?t=33767
 
 max up to 15 items. support steam, windows desktop and internet short cuts.
 open steam game library when clicked on title.
@@ -242,7 +262,8 @@ see with mouseover which item could be clicked on.
 
 -Windows Shortcuts (filechoose)
 
-this skin use the (filechoose) plugin that does not comes with rainmeter by it self. 
+this skin use (filechoose) plugin that have to be installed from rainmeter forum.
+https://forum.rainmeter.net/viewtopic.php?t=33767
 
 max up to 8 items. support steam, windows desktop and internet shortcuts.
 open windows applications library when clicked on title.
