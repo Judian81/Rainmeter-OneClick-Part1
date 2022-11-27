@@ -35,6 +35,7 @@ and the last one is sexagesimal with hours, minutes and seconds.
 we can make some simple calculation's. addition, subtraction, multiplication and division. you can click on the textbox to write some numbers.
 there are only numbers that are possible to type in the text box. when right click on textbox it copies to clipboard.
 what also is possible, to write a number and click on the R to see what roman numbers it are.
+there are also converters to and from celsius to and from fahrenheit.
 when clicked on title it opens the original windows calculator.
 
 &nbsp;
@@ -223,7 +224,25 @@ when clicked on title it opens the windows control panel.
 
 &nbsp;
 
--Windows Shortcuts
+-Windows Shortcuts (fileview)
+
+this skin use the default (fileview) plugin that comes with rainmeter.
+
+max up to 8 items. support steam, windows desktop and internet shortcuts.
+open windows applications library when clicked on title.
+open item in one click.
+list is scrollable. you can select if you want to show a scrollbar.
+you can change the icon of every item.
+list sorted by name.
+possible to see item name even if skin is not wide enough.
+save scroll position.
+see with mouseover which item could be clicked on.
+
+&nbsp;
+
+-Windows Shortcuts (filechoose)
+
+this skin use the (filechoose) plugin that does not comes with rainmeter by it self. 
 
 max up to 8 items. support steam, windows desktop and internet shortcuts.
 open windows applications library when clicked on title.
@@ -239,7 +258,6 @@ see with mouseover which item could be clicked on.
 
 ** change width and height or change scale. you can set the padding to keep distance between skins. this is possible in almost all skins.
 
-&nbsp;
 &nbsp;
 
 Rainmeter Forum:
