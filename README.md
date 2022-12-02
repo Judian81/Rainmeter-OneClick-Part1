@@ -216,7 +216,7 @@ see the selected row there could be clicked on.
 -Steam Games (filechoose)
 
 this skin use (filechoose) plugin that have to be installed from rainmeter forum.
-https://forum.rainmeter.net/viewtopic.php?t=33767
+1) filechoose.dll. https://forum.rainmeter.net/viewtopic.php?t=33767
 
 max up to 15 items. support steam, windows desktop and internet short cuts.
 open steam game library when clicked on title.
@@ -265,7 +265,7 @@ see with mouseover which item could be clicked on.
 -Windows Shortcuts (filechoose)
 
 this skin use (filechoose) plugin that have to be installed from rainmeter forum.
-https://forum.rainmeter.net/viewtopic.php?t=33767
+1) filechoose.dll. https://forum.rainmeter.net/viewtopic.php?t=33767
 
 max up to 8 items. support steam, windows desktop and internet shortcuts.
 open windows applications library when clicked on title.
