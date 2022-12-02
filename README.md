@@ -257,8 +257,13 @@ list is scrollable. you can select if you want to show a scrollbar.
 you can change the icon of every item.
 list sorted by name.
 possible to see item name even if skin is not wide enough.
-save scroll position.
 see with mouseover which item could be clicked on.
+
+fileview vs filechoose.
+this can not save the scrollindex.
+good point is the icons will not be seen loaded.
+downside is the icons will be writen all the time while scrolling up and down.
+scrolling is very slow.
 
 &nbsp;
 
@@ -274,8 +279,14 @@ list is scrollable. you can select if you want to show a scrollbar.
 you can change the icon of every item.
 list sorted by name.
 possible to see item name even if skin is not wide enough.
-save scroll position.
 see with mouseover which item could be clicked on.
+
+
+fileview vs filechoose.
+this can save the scrollindex. so it will always been loaded or refreshed like it was before.
+downside is you see that the icons are blinking when started the first time. or while refreshed. if it is not the first time we can see the icons loading.
+the icons are only saved to hard drive the first time or when have been refreshed.
+scrolling speed is just the way you want it.
 
 &nbsp;
 
