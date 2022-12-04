@@ -3,15 +3,6 @@ AccurateText=1
 BackgroundMode=3
 DynamicWindowSize=1
 
-;--------------------VARIABLE---------------
-
-[Variables]
-
-;--------------------MEASURE----------------
-
-
-;--------------------STYLE------------------
-
 [sTextCenter]
 FontColor=183,204,213,230
 ;StringStyle=Bold
