@@ -3,21 +3,6 @@ AccurateText=1
 BackgroundMode=3
 DynamicWindowSize=1
 
-;--------------------METADATA---------------
-[Metadata]
-Name=Judian81
-Version=0.1
-License=Creative Commons Attribution-Non-Commercial-Share Alike 3.0
-
-;--------------------VARIABLE---------------
-
-[Variables]
-
-;--------------------MEASURE----------------
-
-
-;--------------------STYLE------------------
-
 [sTextCenter]
 FontColor=183,204,213,230
 ;StringStyle=Bold

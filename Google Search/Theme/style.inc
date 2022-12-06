@@ -3,24 +3,8 @@ AccurateText=1
 BackgroundMode=3
 DynamicWindowSize=1
 
-;--------------------METADATA---------------
-[Metadata]
-Name=Judian81
-Version=0.1
-License=Creative Commons Attribution-Non-Commercial-Share Alike 3.0
-
-;--------------------VARIABLE---------------
-
-[Variables]
-
-;--------------------MEASURE----------------
-
-
-;--------------------STYLE------------------
-
 [sTextCenter]
 FontColor=183,204,213,230
-;StringStyle=Bold
 StringStyle=Normal
 StringAlign=Center
 FontFace=Trebuchet MS
@@ -31,7 +15,6 @@ StringEffect=Shadow
 FontEffectColor=0,0,0,50
 
 [sTextLeft]
-;FontColor=160,160,160,255
 FontColor=130,131,132,255
 StringStyle=Normal
 StringAlign=Left
@@ -44,9 +27,8 @@ FontEffectColor=0,0,0,50
 ClipString=1
 
 [sTextRight]
-;FontColor=210,210,210,205
 FontColor=130,131,132,255
-StringStyle=Normal
+StringStyle=Bold
 StringAlign=Right
 FontFace=Trebuchet MS
 FontSize=(10*#vSkinScale#)
@@ -73,10 +55,8 @@ SolidColor=183,204,213,100
 Meter=Shape
 Shape=Rectangle (1*#vSkinScale#),(1*#vSkinScale#),(#vSkinWidth#*#vSkinScale#),(#vSkinHeight#*#vSkinScale#),5 | Fill Color 30,32,37,255 | StrokeWidth 0.5 | Extend StrokeAlpha
 StrokeAlpha=Stroke Color 100,100,100,255
-Meter=Shape2
 Shape2=Rectangle (2*#vSkinScale#),(2*#vSkinScale#),((#vSkinWidth#-2)*#vSkinScale#),(34*#vSkinScale#),5 | Fill Color 67, 73, 83, 255 | StrokeWidth 0.5 | Extend StrokeAlpha2
-;StrokeAlpha2=Stroke Color 10,9,9,255
-StrokeAlpha2=Stroke Color 150,150,150,255
+StrokeAlpha2=Stroke Color 10,9,9,255
 Padding=#paddingLeft#,#paddingTop#,#paddingRight#,#paddingBottom#
 
 [tLineTop]

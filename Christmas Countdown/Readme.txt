@@ -1,0 +1,1 @@
+right click 'Kingthings Christmas 2.2.ttf' then press install.

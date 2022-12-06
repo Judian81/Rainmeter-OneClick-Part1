@@ -3,20 +3,6 @@ AccurateText=1
 BackgroundMode=3
 DynamicWindowSize=1
 
-;--------------------METADATA---------------
-
-[Metadata]
-Name=Judian81
-Version=0.1
-License=Creative Commons Attribution-Non-Commercial-Share Alike 3.0
-
-;--------------------VARIABLE---------------
-
-[Variables]
-
-;--------------------MEASURE----------------
-
-
 ;--------------------STYLE------------------
 
 [sTextCenter]
@@ -32,7 +18,7 @@ FontEffectColor=0,0,0,50
 
 [sTextLeft]
 FontColor=130,131,132,255
-StringStyle=Bold
+StringStyle=Normal
 StringAlign=Left
 FontFace=Trebuchet MS
 FontSize=(10*#vSkinScale#)
@@ -65,6 +51,20 @@ SolidColor=183,204,213,100
 [sSeperator]
 SolidColor=183,204,213,100
 
+[sInput]
+StringStyle=Bold
+StringAlign=Left
+FontFace=Trebuchet MS
+FontSize=(10*#vSkinScale#)
+AntiAlias=1
+StringCase=None
+StringEffect=Shadow
+SolidColor=200,200,200,255
+FontEffectColor=0,0,0,20
+FontColor=30,30,30,255
+;SolidColor=150,150,150,255
+;FontEffectColor=0,0,0,20
+;FontColor=0,130,30,255
 ;--------------------METER------------------
 
 [tBG]
