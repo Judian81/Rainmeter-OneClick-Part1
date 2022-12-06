@@ -1,2 +1,2 @@
 [Variables]
-vRomanNumber=1024
+vRomanNumber=512
