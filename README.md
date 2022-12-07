@@ -199,6 +199,9 @@ text color change when online / offline or in game.
 
 -Steam Games (fileview)
 
+
+![4](https://user-images.githubusercontent.com/46109964/206237880-e606f63e-41ff-4bb3-94c7-115519c95f1b.png)
+
 this skin use (fileview) plugin that comes with rainmeter itself.
 
 max up to 15 items. support steam, windows desktop and internet short cuts.
@@ -221,6 +224,9 @@ scrolling is very slow.
 &nbsp;
 
 -Steam Games (filechoose)
+
+
+![4](https://user-images.githubusercontent.com/46109964/206237880-e606f63e-41ff-4bb3-94c7-115519c95f1b.png)
 
 this skin use (filechoose) plugin that have to be installed from rainmeter forum.
 1) filechoose.dll. https://forum.rainmeter.net/viewtopic.php?t=33767
