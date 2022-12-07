@@ -48,6 +48,9 @@ when clicked on title it opens the original windows calculator.
 
 -Christmas Countdown
 
+
+![christmas](https://user-images.githubusercontent.com/46109964/206257389-413d91be-f0b2-48e4-b716-e6c4d6f08851.png)
+
 we can see that christmas is in so maby days, hours, minutes and even in seconds.
 there is a nice font given with this. and the colors are in christmas style.
 i changed the color so it will be readable all the time.
@@ -55,6 +58,9 @@ i changed the color so it will be readable all the time.
 &nbsp;
 
 -Cook Timer
+
+
+![cook timer](https://user-images.githubusercontent.com/46109964/206257444-9b4e0df7-f576-4854-8edb-40aa24845c5a.png)
 
 you can have 3 timers running on the same time. every timer can have it's own name, hours and minutes to count from.
 when you stop a timer it will be reset to 0:00. and no it can not be paused. but you can change the time and start from there.
@@ -75,6 +81,9 @@ please let it be rechargeable battery's.
 
 -Disk
 
+
+![disk](https://user-images.githubusercontent.com/46109964/206257518-9b7b0d61-42d3-4ec2-8800-812d6965543a.png)
+
 it shows the c drive. and how much space there is left to be used. when pressed on c it will open the file explorer in your c drive.
 when clicked on title it opens the file explorer in the onedrive map.
 
@@ -91,6 +100,9 @@ with special tool tip included. tool tip text have an image, title and text. the
 &nbsp;
 
 -Lock Computer
+
+
+![lock](https://user-images.githubusercontent.com/46109964/206257582-dd6a60e6-8afb-4411-a936-7ba0838ed403.png)
 
 it display a lock icon. when double click on icon your computer gets locked.
 i chose for double click to be more safe. this skin works the same as [Winkey] + [L] but you can do it with the mouse.
@@ -123,6 +135,9 @@ will show a visualizer in the cover area. will work with any sound played on you
 
 -Network
 
+
+![network](https://user-images.githubusercontent.com/46109964/206257667-a3a778dd-c7b3-4b0d-a52f-977b552509ed.png)
+
 the upload and download speed are displayed in percentages. your ip adres is shown but is masked. masked means it will show a * in stead of 256 or whatever.
 this can be undone with skin ini. when clicked on ip adres or its label it opens the network connections.
 when clicked on the title it will start speedtest.net. there you can test your internet speed.
@@ -131,8 +146,10 @@ when clicked on the title it will start speedtest.net. there you can test your i
 
 -Notes
 
-when clicked on title it opens a text file in your default text editor. you can edit that file and save it.
-then refresh the skin and it will show the information from the text file.
+
+![notes](https://user-images.githubusercontent.com/46109964/206257739-21a24aee-18d9-4ee4-b415-fe029c128e65.png)
+
+when clicked on title it makes it possible to edit the seen text.
 copy this skin to various locations in rainmeter skin map. and you can have 2 or more note skins you can use together.
 
 &nbsp;
