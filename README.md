@@ -260,6 +260,7 @@ when clicked on title it opens the windows control panel.
 &nbsp;
 
 -Windows Shortcuts (fileview)
+![windows shortcuts](https://user-images.githubusercontent.com/46109964/206236798-3ddfd035-952e-406d-8ad0-c818dc71a3b8.png)
 
 this skin use the default (fileview) plugin that comes with rainmeter.
 
@@ -280,7 +281,9 @@ scrolling is very slow.
 
 &nbsp;
 
+
 -Windows Shortcuts (filechoose)
+![windows shortcuts](https://user-images.githubusercontent.com/46109964/206236798-3ddfd035-952e-406d-8ad0-c818dc71a3b8.png)
 
 this skin use (filechoose) plugin that have to be installed from rainmeter forum.
 1) filechoose.dll. https://forum.rainmeter.net/viewtopic.php?t=33767
