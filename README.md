@@ -13,6 +13,9 @@ Info:
 
 -Binary Ascii Table
 
+
+![binary](https://user-images.githubusercontent.com/46109964/206244308-858e17cc-3f2c-4e71-8704-6b4d835fc7f8.png)
+
 cycles between numbers (0 to 9), uppercase (A to Z) and lowercase (a to z).
 it will then show what binary code it suits.
 like 0100 0001 = A, 0100 0010 = B and so on.
@@ -31,6 +34,9 @@ and the last one is sexagesimal with hours, minutes and seconds.
 &nbsp;
 
 -Calculator
+
+
+![calculator](https://user-images.githubusercontent.com/46109964/206244502-b7cd9a77-7383-4369-bd3f-eeb4c16617d9.png)
 
 we can make some simple calculation's. addition, subtraction, multiplication and division. you can click on the textbox to write some numbers.
 there are only numbers that are possible to type in the text box. when right click on textbox it copies to clipboard.
@@ -259,6 +265,9 @@ when you click on the time. your computer time settings are displayed.
 &nbsp;
 
 -Uptime
+
+
+![uptime](https://user-images.githubusercontent.com/46109964/206244410-fc6c4c17-c552-464d-aa5d-9d11140ff7cc.png)
 
 you can see the uptime, when started and how long it is running.
 when clicked on title it opens the windows control panel.
