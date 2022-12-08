@@ -236,6 +236,9 @@ when date is set the count begins.
 
 -Steam Chat
 
+
+![steam chat](https://user-images.githubusercontent.com/46109964/206585971-39ecb56b-188a-4b49-9e18-8c260a4b99d5.png)
+
 possible to add 4 friends. use custom names and pictures you like to have. needs steam id links to work,
 then you can see status, online data, profile (when clicked) and open chat of friend.
 when clicked on title it opens steam application friends list.
