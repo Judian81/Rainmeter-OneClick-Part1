@@ -91,6 +91,9 @@ when clicked on title it opens the file explorer in the onedrive map.
 
 -Google Search
 
+
+![google search](https://user-images.githubusercontent.com/46109964/206581288-20439380-3a84-4052-a493-7a2c4264ccc9.png)
+
 when double click on the title it opens google.com in your default browser.
 we can change the search option to youtube, rainmeter, google and translation.
 you can double click on youtube and that will then open the youtube default page.
@@ -159,6 +162,9 @@ copy this skin to various locations in rainmeter skin map. and you can have 2 or
 
 -Performance
 
+
+![performance](https://user-images.githubusercontent.com/46109964/206581383-c21d208d-027c-4565-8abc-93c539593c44.png)
+
 it displays the cpu and the ram usage in percentages. when clicked on the title it opens the control panel.
 
 &nbsp;
@@ -181,6 +187,9 @@ when clicked on author we open your rainmeter account page.
 &nbsp;
 
 -Recycle Bin
+
+
+![RecycleBin](https://user-images.githubusercontent.com/46109964/206581429-729775a6-5502-4591-b5cd-adf9f4971088.png)
 
 when clicked on the title. the trash can is opend in a new window. you can see the total items and how much memory it takes.
 when clicked with the right mouse butten. you can select is you want to empty the trash can.
