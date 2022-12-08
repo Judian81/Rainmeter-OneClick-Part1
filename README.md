@@ -112,6 +112,9 @@ with special tool tip included. tool tip text have an image, title and text. the
 
 -Music Player
 
+
+![music player](https://user-images.githubusercontent.com/46109964/206579897-f7ceeff4-47be-43c3-9f7f-887df7a57d5e.png)
+
 click on title to open sound device settings.
 when switching from players by using that beautifull icons. we can see the position, lenght, artist, album, song, cover.
 when switched to spotify. we can only see artist and song.
