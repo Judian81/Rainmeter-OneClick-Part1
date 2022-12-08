@@ -298,6 +298,9 @@ scrolling speed is just the way you want it.
 
 -Time
 
+
+![time](https://user-images.githubusercontent.com/46109964/206583684-b05f2f3b-6056-4d49-b5f7-dc7d0cfa6762.png)
+
 we see a lot of things that has to do with time. first of all a 24 hour notation.
 the weeks we are living in. the date, dayname of the week, the season, daypartname and if it is pm or am.
 next to that we have a picture of the day part and seasons combined.
