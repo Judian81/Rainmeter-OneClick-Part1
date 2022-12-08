@@ -171,6 +171,9 @@ it displays the cpu and the ram usage in percentages. when clicked on the title 
 
 -Photo Album
 
+
+![photo album](https://user-images.githubusercontent.com/46109964/206582494-feb5991b-09d3-4377-bb17-bda739306f9f.png)
+
 displays a photo on your desktop.
 you can put photo's in the skin directory. the photo's are changed randomly. every 20 seconds the photo change.
 it is possible to enable a border or and background. you can change height, width and padding to align the border on it's own place.
@@ -198,12 +201,18 @@ when clicked with the right mouse butten. you can select is you want to empty th
 
 -Roman Calculator
 
+
+![roman calculator](https://user-images.githubusercontent.com/46109964/206582564-daf7eaa2-3fb3-4a9f-89b9-5e298732047d.png)
+
 calculate the roman numbers with giving the normal number system. you have to click before you can put in the numers.
 when you go mouse over the title, you can see what a roman number is. like X for 10 and so on.
 
 &nbsp;
 
 -Roman Clock
+
+
+![roman clock](https://user-images.githubusercontent.com/46109964/206582579-7d762fe0-7834-406c-81d1-20a085d9ea91.png)
 
 there are 4 variants.
 first of all the time notation is and are in 12 hour clock time. pm/am.
@@ -216,6 +225,9 @@ this way you can learn to count in roman.
 &nbsp;
 
 -Smoke Counter
+
+
+![smoke counter](https://user-images.githubusercontent.com/46109964/206582600-39a6f596-de07-42d3-a015-43db4ae92145.png)
 
 we can see the month, day and hour of the time we stopped smoking.
 when date is set the count begins.
