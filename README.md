@@ -1,8 +1,8 @@
 Preview:
 
 
+![OneClick1](https://user-images.githubusercontent.com/46109964/206590804-60dff504-6678-435c-a59b-0b9ce12c5163.png)
 
-![OneClick](https://user-images.githubusercontent.com/46109964/175830176-10e83fb4-ad10-42e7-9600-afc70a4bfc39.png)
 
 
 &nbsp;&nbsp;
