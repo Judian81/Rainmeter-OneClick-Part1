@@ -46,6 +46,14 @@ when clicked on title it opens the original windows calculator.
 
 &nbsp;
 
+-Calendar
+
+
+![calendar](https://user-images.githubusercontent.com/46109964/206587233-e2f7daee-b948-4ff5-8057-3cc9ad185791.png)
+
+can add up to 3 calendars. up to 5 items are shown. when clicked on titel it opens the google agenda.
+
+
 -Christmas Countdown
 
 
