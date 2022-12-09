@@ -314,6 +314,7 @@ when you click on the time. your computer time settings are displayed.
 ![Tooltiptext](https://user-images.githubusercontent.com/46109964/206593777-3e9000d5-8c5b-4b90-9eb0-ae0e4814b307.png)
 
 when mouseover we can make use of this tooltip text that is displayed. and can add icons and other stuff.
+i used this skin in almost all the skins i provide here. and what we need is to copy this tooltip folder not into same folder any skin is in.
 
 &nbsp;
 
