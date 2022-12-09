@@ -141,8 +141,8 @@ will show a visualizer in the cover area. will work with any sound played on you
 
 -Network
 
+![network](https://user-images.githubusercontent.com/46109964/206780068-ad2314be-3fdb-4104-ad6f-6eeadfbad808.png)
 
-![network](https://user-images.githubusercontent.com/46109964/206257667-a3a778dd-c7b3-4b0d-a52f-977b552509ed.png)
 
 the upload and download speed are displayed in percentages. your ip adres is shown but is masked. masked means it will show a * in stead of 256 or whatever.
 this can be undone with skin ini. when clicked on ip adres or its label it opens the network connections.
