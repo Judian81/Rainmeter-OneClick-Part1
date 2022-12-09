@@ -17,6 +17,9 @@ when mouse over title you can see by what it cycles to.
 
 -Binary Clock
 
+
+![binary](https://user-images.githubusercontent.com/46109964/206791593-8f88cc91-2b82-4895-a7cc-5f2327928323.png)
+
 there are 4 variants. a 24 hour digital clock is used in all of them.
 the first one uses decimal with hours and minutes.
 the second one is decimal with hours, minutes and seconds.
