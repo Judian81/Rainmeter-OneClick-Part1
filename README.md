@@ -1,7 +1,3 @@
-Info:
-
-&nbsp;
-
 -Binary Ascii Table
 
 
