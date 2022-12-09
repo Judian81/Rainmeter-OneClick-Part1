@@ -179,6 +179,8 @@ it is possible to enable a border or and background. you can change height, widt
 -Rainmeter Forum
 
 
+![rain forum](https://user-images.githubusercontent.com/46109964/206788173-4519976c-5f48-4463-8892-50dba8f4bd5c.png)
+
 we can see up to 10 threads. the user, date / time, if there is a reply and the toppic we are in.
 we can open every item by just one click. when clicked on topic in title bar we go to the rainmeter manual website.
 when clicked on thread in the title bar we open the rainmeter forum website.
