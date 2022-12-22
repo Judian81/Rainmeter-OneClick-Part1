@@ -22,7 +22,7 @@ when mouse over title you can see by what it cycles to.
 -Binary Clock
 
 
-![binary](https://user-images.githubusercontent.com/46109964/206791593-8f88cc91-2b82-4895-a7cc-5f2327928323.png)
+![binary hours](https://user-images.githubusercontent.com/46109964/209177847-0e1c22c6-c9ee-42f7-823f-2f7895a2e34a.png)
 
 there are 4 variants. a 24 hour digital clock is used in all of them.
 the first one uses decimal with hours and minutes.
