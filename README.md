@@ -98,6 +98,18 @@ when clicked on title it opens the file explorer in the onedrive map.
 
 &nbsp;
 
+-Game Emulator
+
+
+![games emulator](https://user-images.githubusercontent.com/46109964/209176956-6df6c761-254f-4d7d-8fcc-e6045fd633db.png)
+
+we can make use of ini files that will redirect to folders full of games or program's shortcuts.
+we could also link roms to an emulator. so when we start the rom from the menu and it opens in the emulator.
+an other thing is we could search for games. like in mario or something else.
+
+
+&nbsp;
+
 -Google Search
 
 
