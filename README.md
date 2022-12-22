@@ -1,7 +1,8 @@
 Info
 
 
-![full package part 1](https://user-images.githubusercontent.com/46109964/206791021-b432e7d8-0e12-4792-a6c2-73cd4ff24b99.png)
+![full package part 1](https://user-images.githubusercontent.com/46109964/209171628-7a1209bf-ab89-42e0-990c-1abaac2ff82a.png)
+
 
 
 &nbsp;
@@ -47,7 +48,8 @@ when clicked on title it opens the original windows calculator.
 -Calendar
 
 
-![calendar](https://user-images.githubusercontent.com/46109964/206587233-e2f7daee-b948-4ff5-8057-3cc9ad185791.png)
+![calendar](https://user-images.githubusercontent.com/46109964/209171721-b379f753-2d43-4d4a-833f-622646eea243.png)
+
 
 can add up to 3 calendars. up to 5 items are shown. when clicked on titel it opens the google agenda.
 
