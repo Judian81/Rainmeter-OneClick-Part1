@@ -48,8 +48,7 @@ when clicked on title it opens the original windows calculator.
 -Calendar
 
 
-![calendar](https://user-images.githubusercontent.com/46109964/209171721-b379f753-2d43-4d4a-833f-622646eea243.png)
-
+![calendar](https://user-images.githubusercontent.com/46109964/209345992-ddddeb47-c0ba-4b37-98a6-45701955a86f.png)
 
 can add up to 3 calendars. up to 5 items are shown. when clicked on titel it opens the google agenda.
 
